@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ranjeet229
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning ,python and javascript 
+- 🌱 I’m currently learning ,dsa ,c++,reactjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mail on kiranjeetkr80@gmail.com
 
