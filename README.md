@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ranjeet229
-- 👀 I’m interested in development
+- 👀 I’m interested in development and data science
 - 🌱 I’m currently learning ,dart,kotlin,c++,java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mail on kiranjeetkr80@gmail.com
