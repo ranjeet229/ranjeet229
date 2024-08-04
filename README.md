@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranjeet kumar</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/8aa36cdb-13ca-4894-835d-1f11d3410ab6">
 
