@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ranjeet kumar</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/54fb8d6a-5386-486f-8edd-a16565a1d639">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/8aa36cdb-13ca-4894-835d-1f11d3410ab6">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjeet229&label=Profile%20views&color=0e75b6&style=flat" alt="ranjeet229" /> </p>
 
@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjeet229&show_icons=true&locale=en&layout=compact" alt="ranjeet229" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjeet229&show_icons=true&locale=en" alt="ranjeet229" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjeet229&" alt="ranjeet229" /></p>
