@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjeet229&label=Profile%20views&color=0e75b6&style=flat" alt="ranjeet229" /> </p>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Software Devlopment**
 
 - 💬 Ask me about **dart, firebase**
 
