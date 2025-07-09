@@ -31,9 +31,3 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/Swarna2102/Swarna2102/blob/output/github-snake-dark.svg)
-
----
-lee
