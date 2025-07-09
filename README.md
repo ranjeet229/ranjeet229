@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranjeet Kumar</h1>
-<h3 align="center">Data Analyst | Software Developer | CSE Student</h3>
+<h3 align="center">Web Developer | Android Developer | Software Developer | CSE Student</h3>
 
 ---
 
